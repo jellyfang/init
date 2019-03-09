@@ -1,10 +1,12 @@
 https://github.com/nicolashery/mac-dev-setup
 
-- install xcode
 - install xcode-select-tools
-
 - install homebrew
+
+# mac
 - brew install chrome
+- brew install firefox
+- brew install brave
 
 # dev
 - brew install git
