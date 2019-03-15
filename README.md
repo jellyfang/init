@@ -49,3 +49,5 @@ brew cask install anaconda
 brew cask install miniconda
 pip3 install tensorflow
 pip3 install keras
+
+## Setup github
